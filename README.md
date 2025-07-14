@@ -12,14 +12,14 @@ Software developer with a background in nursing and business. Passionate about m
 ## 💻 Tech Journey
 
 - **Excel enthusiast** → Custom spreadsheets for finance & investment tracking  
-- **software development** (C, C++, SQL)
+- **Software development** (C, C++, SQL)
 
 ---
 
 ## 🛠 Skills
 
-- **Data Analysis**
 - **Software Development** (C, C++, SQL)
+- **Data Analysis**
 - **Problem Solving & Process Optimization**
 - **Leadership & Strategic Planning**
 
