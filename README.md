@@ -4,6 +4,11 @@ Software developer with a background in nursing and business. Passionate about m
 
 ---
 
+## 🚀 What I’m working on:
+- Currently studying at **42 Porto**, where I am learning software development from scratch.
+- Recently developed projects in **C**, focusing on algorithm design, memory management, and system-level programming.
+- Now diving into **C++**, working on building object-oriented programs, and exploring advanced concepts like data structures, polymorphism, and multi-threading.
+
 ## 💻 Tech Journey
 
 - **Excel enthusiast** → Custom spreadsheets for finance & investment tracking  
@@ -35,3 +40,7 @@ Led a small business, gaining expertise in leadership, strategy, and optimizing 
 ## 🚀 What I'm Looking For
 
 Eager to apply my combined skills in tech, healthcare, and business to solve real-world problems.
+
+## 💬 How to reach me:
+- Email: ruiac9@gmail.com
+- LinkedIn: [Rui Campos](https://www.linkedin.com/in/ruicampos87)
