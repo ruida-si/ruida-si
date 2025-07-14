@@ -4,18 +4,6 @@ Software developer with a background in nursing and business. Passionate about m
 
 ---
 
-## 🩺 Nursing Experience (7 years)
-
-Worked in psychiatry & rehabilitation, developing skills in precision, empathy, and adaptability in high-pressure settings.
-
----
-
-## 📊 Business Management (5 years)
-
-Led a small business, gaining expertise in leadership, strategy, and optimizing workflows.
-
----
-
 ## 💻 Tech Journey
 
 - **Excel enthusiast** → Custom spreadsheets for finance & investment tracking  
@@ -29,6 +17,18 @@ Led a small business, gaining expertise in leadership, strategy, and optimizing 
 - **Software Development** (C, C++, SQL)
 - **Problem Solving & Process Optimization**
 - **Leadership & Strategic Planning**
+
+---
+
+## 🩺 Nursing Experience (7 years)
+
+Worked in psychiatry & rehabilitation, developing skills in precision, empathy, and adaptability in high-pressure settings.
+
+---
+
+## 📊 Business Management (5 years)
+
+Led a small business, gaining expertise in leadership, strategy, and optimizing workflows.
 
 ---
 
