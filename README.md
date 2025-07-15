@@ -18,8 +18,8 @@ Software developer with a background in nursing and business. Passionate about m
 
 ## 🛠 Skills
 
-- **Software Development** (C, C++, SQL)
-- **Data Analysis**
+- **Software Development** (C, C++)
+- **Data Analysis** (SQL)
 - **Problem Solving & Process Optimization**
 - **Leadership & Strategic Planning**
 
@@ -27,7 +27,7 @@ Software developer with a background in nursing and business. Passionate about m
 
 ## 🩺 Nursing Experience (7 years)
 
-Worked in psychiatry & rehabilitation, developing skills in precision, empathy, and adaptability in high-pressure settings.
+Specialized in Neuroscience & Rehabilitation, honing a high level of precision, empathy, and adaptability while working in fast-paced, high-pressure environments. Strong track record of delivering exceptional patient care, supporting both physical and mental recovery processes, and collaborating with interdisciplinary teams to promote holistic well-being.
 
 ---
 
